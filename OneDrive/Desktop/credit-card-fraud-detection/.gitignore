@@ -1,0 +1,14 @@
+# Data (download separately, see README)
+data/
+*.csv.zip
+archive.zip
+creditcard.csv
+
+# Run artefacts
+outputs/
+*.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
